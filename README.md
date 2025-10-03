@@ -1,4 +1,7 @@
 # ComputerGraphicsLab4
+This project contains the model and textures used for the assigment along with the shadergraph and material required for it to function.
+The images are ordered as follows:
+Diffuse Only, Ambient Only, Specular Only, Diffuse + Ambient, Diffuse + Specular, Ambient + Specular, None, All Three Together
 
 <img width="574" height="600" alt="Screenshot 2025-10-03 095438" src="https://github.com/user-attachments/assets/db3e8af4-f3c3-46e6-be6d-771cd8025bce" />
 <img width="634" height="620" alt="Screenshot 2025-10-03 095444" src="https://github.com/user-attachments/assets/88cd0ee0-e1cb-42d6-a004-d0685890cdc3" />
